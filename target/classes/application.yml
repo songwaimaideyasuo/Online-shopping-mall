@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: pring-boot-mongodb
+  data:
+    mongodb:
+      host: 42.192.5.29
+      port: 27004
+#      username: "wangfei"
+#      password: "wangf2441228804"
+      database: test3
+#      authentication-database: admin
